@@ -6,6 +6,7 @@ public class firstClassgitHub {
 
 		
 		System.out.println("Ali is my son");
+		System.out.println("Seocondday");
 	}
 
 }
